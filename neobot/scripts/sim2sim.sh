@@ -1,0 +1,2 @@
+# python sim2simneo.py --load_model /home/wx/humanoid/humanoid-gym/logs/neo_ppo/exported/policies/policy2_21.pt
+python sim2simneo.py --load_model /home/wx/humanoid/humanoid-gym/logs/neo_ppo/exported/policies_3-29/policy_1.pt
